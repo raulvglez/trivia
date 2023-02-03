@@ -1,0 +1,30 @@
+.header{
+    margin:auto;
+    display:flex;
+    position:relative;
+    flex-wrap:wrap;
+    justify-content: center;
+    width: 100vh;
+}
+
+#main{
+    margin:auto;
+    display:flex;
+    position:relative;
+    flex-wrap:wrap;
+    justify-content: center;
+    width: 100vh;
+}
+
+#option1{
+    background-color: white;
+}
+#option2{
+    background-color: white;
+}
+#option3{
+    background-color: white;
+}
+#option4{
+    background-color: white;
+}
